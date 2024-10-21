@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1729498489480,
+  "timestamp": 1729510577867,
   "index": "https://murtuza4599.github.io/notification_test/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://murtuza4599.github.io/notification_test/favicon.ico",
         "https://murtuza4599.github.io/notification_test/index.html",
-        "https://murtuza4599.github.io/notification_test/main-DMS6Q4ZS.js",
+        "https://murtuza4599.github.io/notification_test/main-5R75N34L.js",
         "https://murtuza4599.github.io/notification_test/manifest.webmanifest",
         "https://murtuza4599.github.io/notification_test/polyfills-FFHMD2TL.js",
         "https://murtuza4599.github.io/notification_test/styles-5INURTSO.css"
@@ -51,8 +51,8 @@
     "https://murtuza4599.github.io/notification_test/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://murtuza4599.github.io/notification_test/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "https://murtuza4599.github.io/notification_test/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://murtuza4599.github.io/notification_test/index.html": "ec2e6c470190f6d7a840f3be87166ca5e27ded13",
-    "https://murtuza4599.github.io/notification_test/main-DMS6Q4ZS.js": "78aa80ed8493b2006e0dcbc1e6f80ac7bab418ab",
+    "https://murtuza4599.github.io/notification_test/index.html": "6d7aa3577c860768ad80037e9b53e3fd6aa415ca",
+    "https://murtuza4599.github.io/notification_test/main-5R75N34L.js": "70e277ee343f20390a0a696202e57708a1873c7b",
     "https://murtuza4599.github.io/notification_test/manifest.webmanifest": "605dfc89b1c053da2014a31b2816dfb196e3d3bc",
     "https://murtuza4599.github.io/notification_test/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "https://murtuza4599.github.io/notification_test/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
