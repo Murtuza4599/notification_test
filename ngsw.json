@@ -1,0 +1,79 @@
+{
+  "configVersion": 1,
+  "timestamp": 1729498136873,
+  "index": "https://murtuza4599.github.io/notification.test/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://murtuza4599.github.io/notification.test/favicon.ico",
+        "https://murtuza4599.github.io/notification.test/index.html",
+        "https://murtuza4599.github.io/notification.test/main-DMS6Q4ZS.js",
+        "https://murtuza4599.github.io/notification.test/manifest.webmanifest",
+        "https://murtuza4599.github.io/notification.test/polyfills-FFHMD2TL.js",
+        "https://murtuza4599.github.io/notification.test/styles-5INURTSO.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://murtuza4599.github.io/notification.test/assets/icons/icon-128x128.png",
+        "https://murtuza4599.github.io/notification.test/assets/icons/icon-144x144.png",
+        "https://murtuza4599.github.io/notification.test/assets/icons/icon-152x152.png",
+        "https://murtuza4599.github.io/notification.test/assets/icons/icon-192x192.png",
+        "https://murtuza4599.github.io/notification.test/assets/icons/icon-384x384.png",
+        "https://murtuza4599.github.io/notification.test/assets/icons/icon-512x512.png",
+        "https://murtuza4599.github.io/notification.test/assets/icons/icon-72x72.png",
+        "https://murtuza4599.github.io/notification.test/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://murtuza4599.github.io/notification.test/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "https://murtuza4599.github.io/notification.test/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "https://murtuza4599.github.io/notification.test/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "https://murtuza4599.github.io/notification.test/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "https://murtuza4599.github.io/notification.test/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "https://murtuza4599.github.io/notification.test/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "https://murtuza4599.github.io/notification.test/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "https://murtuza4599.github.io/notification.test/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "https://murtuza4599.github.io/notification.test/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://murtuza4599.github.io/notification.test/index.html": "2f3e66fb9105ed8bc8df6008b23cf925b58ab541",
+    "https://murtuza4599.github.io/notification.test/main-DMS6Q4ZS.js": "78aa80ed8493b2006e0dcbc1e6f80ac7bab418ab",
+    "https://murtuza4599.github.io/notification.test/manifest.webmanifest": "605dfc89b1c053da2014a31b2816dfb196e3d3bc",
+    "https://murtuza4599.github.io/notification.test/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "https://murtuza4599.github.io/notification.test/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
